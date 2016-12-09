@@ -62,7 +62,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
     private func getTableViewSections() -> [(Void) -> Header] {
         var datas = [(Void) -> Header]()
         
-        let titles = ["「太阳照耀着」\n顾远",
+        let titles = ["「太阳照耀着」\n顾城",
                       "太阳照耀着冰雪，",
                       "冰雪在流着眼泪。",
                       "它们流到了地上，变成了一汪汪积水。",
